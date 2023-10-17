@@ -22,7 +22,7 @@ Este é um projeto teste feito em Laravel com Tailwind CSS que inclui a criaçã
    ```bash
    composer install
 
-3. Instale as dependências do PHP usando o Composer:
+3. Instale as dependências do JS:
    ```bash
    npm install
 
