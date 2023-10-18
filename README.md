@@ -16,7 +16,8 @@ Este é um projeto teste feito em Laravel com Tailwind CSS que inclui a criaçã
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone
+https://github.com/brunojustomagnus/sgcor-test.git
 
 2. Instale as dependências do PHP usando o Composer:
    ```bash
