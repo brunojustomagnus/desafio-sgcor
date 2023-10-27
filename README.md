@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Este é um projeto teste feito em Laravel com Tailwind CSS que inclui a criação, listagem, edição, exclusão e cálculo do IMC de usuários. Este README destaca os principais aspectos do projeto e os comandos comuns de desenvolvimento.
+Este é um projeto teste feito em Laravel com Tailwind CSS que inclui a criação, listagem, edição, exclusão e cálculo do IMC de usuários, com campos básicos como nome, cpf, celular, etc. Este README destaca os principais aspectos do projeto e os comandos comuns de desenvolvimento.
 
 ## Requisitos
 
